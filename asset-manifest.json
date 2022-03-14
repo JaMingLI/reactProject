@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reactProject/static/css/main.be244893.css",
-    "main.js": "/reactProject/static/js/main.453e97ae.js",
+    "main.js": "/reactProject/static/js/main.bc066a32.js",
     "static/media/taipeilogo.png": "/reactProject/static/media/taipeilogo.485cc5d8643acb6500df.png",
     "index.html": "/reactProject/index.html",
     "main.be244893.css.map": "/reactProject/static/css/main.be244893.css.map",
-    "main.453e97ae.js.map": "/reactProject/static/js/main.453e97ae.js.map"
+    "main.bc066a32.js.map": "/reactProject/static/js/main.bc066a32.js.map"
   },
   "entrypoints": [
     "static/css/main.be244893.css",
-    "static/js/main.453e97ae.js"
+    "static/js/main.bc066a32.js"
   ]
 }

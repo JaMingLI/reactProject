@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.be244893.css",
-    "main.js": "/static/js/main.b25f555d.js",
-    "static/media/taipeilogo.png": "/static/media/taipeilogo.485cc5d8643acb6500df.png",
-    "index.html": "/index.html",
-    "main.be244893.css.map": "/static/css/main.be244893.css.map",
-    "main.b25f555d.js.map": "/static/js/main.b25f555d.js.map"
+    "main.css": "/reactProject/static/css/main.be244893.css",
+    "main.js": "/reactProject/static/js/main.453e97ae.js",
+    "static/media/taipeilogo.png": "/reactProject/static/media/taipeilogo.485cc5d8643acb6500df.png",
+    "index.html": "/reactProject/index.html",
+    "main.be244893.css.map": "/reactProject/static/css/main.be244893.css.map",
+    "main.453e97ae.js.map": "/reactProject/static/js/main.453e97ae.js.map"
   },
   "entrypoints": [
     "static/css/main.be244893.css",
-    "static/js/main.b25f555d.js"
+    "static/js/main.453e97ae.js"
   ]
 }

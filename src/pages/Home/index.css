@@ -1,0 +1,74 @@
+:root{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    height: auto;
+    
+}
+#taipei{
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+
+.lable{
+    height: 100%;
+    width: 20% ;     
+    text-align: center;
+    padding: 50px;      
+}
+
+.dataComtainer{
+    width: 100% ; 
+    height: 100vh;
+    padding: 30px;
+    background: rgba(101, 92, 92, 0.1);
+}
+.inputArea{
+    display: flex;
+    align-items: center;    
+}
+.inputArea h1{
+    padding-right: 20px;
+}
+.area{
+    width: 200px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+canvas{
+    height:70vh;
+}
+
+
+@media  screen and (max-width:720px) {
+    
+    .container{      
+        flex-wrap: wrap;      
+    }
+    .lable{
+        height: 100%;
+        width: 50% ;     
+        text-align: center;
+        padding: 50px;      
+    }
+    .dataComtainer{
+        padding: 30px;
+    }
+    canvas{
+        height: 300px;        
+    }
+    
+}
